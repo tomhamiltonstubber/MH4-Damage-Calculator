@@ -1,0 +1,26 @@
+C:\Users\Tom\documents\visual studio 2010\Projects\DamageCalculator\DamageCalculator\bin\Debug\DamageCalculator.exe
+C:\Users\Tom\documents\visual studio 2010\Projects\DamageCalculator\DamageCalculator\bin\Debug\DamageCalculator.pdb
+C:\Users\Tom\documents\visual studio 2010\Projects\DamageCalculator\DamageCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom\documents\visual studio 2010\Projects\DamageCalculator\DamageCalculator\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tom\documents\visual studio 2010\Projects\DamageCalculator\DamageCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tom\documents\visual studio 2010\Projects\DamageCalculator\DamageCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tom\documents\visual studio 2010\Projects\DamageCalculator\DamageCalculator\obj\x86\Debug\DamageCalculator.exe
+C:\Users\Tom\documents\visual studio 2010\Projects\DamageCalculator\DamageCalculator\obj\x86\Debug\DamageCalculator.pdb
+C:\Users\Tom\documents\visual studio 2010\Projects\DamageCalculator\DamageCalculator\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+N:\DamageCalculator\DamageCalculator\obj\x86\Debug\DamageCalculator.exe
+N:\DamageCalculator\DamageCalculator\obj\x86\Debug\DamageCalculator.pdb
+N:\DamageCalculator\DamageCalculator\bin\Debug\DamageCalculator.exe
+N:\DamageCalculator\DamageCalculator\bin\Debug\DamageCalculator.pdb
+N:\DamageCalculator\DamageCalculator\obj\x86\Debug\DamageCalculator.csprojResolveAssemblyReference.cache
+N:\DamageCalculator\DamageCalculator\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+N:\DamageCalculator\DamageCalculator\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+N:\DamageCalculator\DamageCalculator\obj\x86\Debug\DamageCalculator.csproj.GenerateResource.Cache
+N:\DamageCalculator\DamageCalculator\obj\x86\Debug\WindowsFormsApplication1.Weapon.resources
+N:\DamageCalculator - Copy\DamageCalculator\obj\x86\Debug\DamageCalculator.exe
+N:\DamageCalculator - Copy\DamageCalculator\obj\x86\Debug\DamageCalculator.pdb
+N:\DamageCalculator - Copy\DamageCalculator\bin\Debug\DamageCalculator.exe
+N:\DamageCalculator - Copy\DamageCalculator\bin\Debug\DamageCalculator.pdb
+N:\DamageCalculator - Copy\DamageCalculator\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+N:\DamageCalculator - Copy\DamageCalculator\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+N:\DamageCalculator - Copy\DamageCalculator\obj\x86\Debug\DamageCalculator.csproj.GenerateResource.Cache
+N:\DamageCalculator - Copy\DamageCalculator\obj\x86\Debug\DamageCalculator.csprojResolveAssemblyReference.cache
