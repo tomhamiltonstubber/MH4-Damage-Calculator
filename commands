@@ -1,0 +1,11 @@
+commands
+
+weaponcrafttype.*?"\}\}\}]\}
+weapontype.*?red":
+"weapon_paren.*?attack"
+"rarity.*?local_name":
+"weaponhunt.*
+"pivot.*?attack":
+"|\}|\{|\[|\]
+red:|orange:|yellow:|green:|blue:|white:|purple:|red_plus:|orange_plus:|yellow_plus:|green_plus:|blue_plus:|white_plus:|purple_plus:
+raw:|affinity:|affinity_virus:|link:|

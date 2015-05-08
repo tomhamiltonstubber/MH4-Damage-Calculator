@@ -1,0 +1,181 @@
+203,LS,198,null,null,Iron Katana,http:\\kiranico.com\en\mh4u\weapon\longsword\iron-katana,30,4,6,0,0,0,0,30,4,16,0,0,0,0
+204,LS,231,null,null,Iron Grace,http:\\kiranico.com\en\mh4u\weapon\longsword\iron-grace,14,14,12,0,0,0,0,14,14,22,0,0,0,0
+205,LS,264,null,null,Iron Gospel,http:\\kiranico.com\en\mh4u\weapon\longsword\iron-gospel,12,6,20,2,0,0,0,12,6,20,12,0,0,0
+206,LS,330,5,null,Eager Cleaver,http:\\kiranico.com\en\mh4u\weapon\longsword\eager-cleaver,12,8,10,10,0,0,0,12,8,10,20,0,0,0,Thunder,100,,,0
+207,LS,396,5,null,Devil Slicer,http:\\kiranico.com\en\mh4u\weapon\longsword\devil-slicer,14,6,8,12,0,0,0,14,6,8,22,0,0,0,Thunder,120,,,0
+208,LS,462,10,null,Wailing Ghost,http:\\kiranico.com\en\mh4u\weapon\longsword\wailing-ghost,20,8,14,14,4,0,0,20,8,14,14,14,0,0,Thunder,200,,,0
+209,LS,495,15,null,Grand Wailing Ghost,http:\\kiranico.com\en\mh4u\weapon\longsword\grand-wailing-ghost,10,6,26,20,8,0,0,10,6,26,20,16,2,0,Thunder,230,,,0
+210,LS,627,15,null,Wrathful Beheader,http:\\kiranico.com\en\mh4u\weapon\longsword\wrathful-beheader,20,16,8,12,14,0,0,20,16,8,12,14,10,0,Thunder,300,,,0
+211,LS,759,20,null,Rightful Beheader,http:\\kiranico.com\en\mh4u\weapon\longsword\rightful-beheader,16,10,10,32,8,4,0,16,10,10,32,8,14,0,Thunder,360,,,0
+212,LS,396,20,null,Stahlfakt,http:\\kiranico.com\en\mh4u\weapon\longsword\stahlfakt,20,8,14,8,0,0,0,20,8,14,14,4,0,0,Dragon,120,,,0
+213,LS,429,25,null,Stahlrecht,http:\\kiranico.com\en\mh4u\weapon\longsword\stahlrecht,6,14,14,4,2,0,0,6,14,14,4,12,0,0,Dragon,150,,,0
+214,LS,462,30,null,Stahlurteil,http:\\kiranico.com\en\mh4u\weapon\longsword\stahlurteil,16,24,14,8,6,2,0,16,24,14,8,6,12,0,Dragon,180,,,0
+215,LS,528,40,null,La Justici\u00e8re,http:\\kiranico.com\en\mh4u\weapon\longsword\la-justiciere,20,14,16,8,10,2,0,20,14,16,8,10,12,0,Dragon,230,,,0
+216,LS,726,45,null,La Loi,http:\\kiranico.com\en\mh4u\weapon\longsword\la-loi,14,8,24,18,12,4,0,14,8,24,18,12,12,2,Dragon,260,,,0
+217,LS,792,45,null,Le D\u00e9calogue,http:\\kiranico.com\en\mh4u\weapon\longsword\le-decalogue,20,14,16,10,6,14,0,20,14,16,10,6,16,8,Dragon,300,,,0
+218,LS,528,null,null,Crab Cutter,http:\\kiranico.com\en\mh4u\weapon\longsword\crab-cutter,20,8,14,14,4,0,0,20,8,14,14,14,0,0
+219,LS,594,null,null,Daimyo Cutter,http:\\kiranico.com\en\mh4u\weapon\longsword\daimyo-cutter,24,4,8,18,6,0,0,24,4,8,18,16,0,0
+220,LS,726,null,null,Daimyo Cutter+,http:\\kiranico.com\en\mh4u\weapon\longsword\daimyo-cutter+,22,20,10,12,6,0,0,22,20,10,12,10,6,0
+221,LS,858,null,null,Hermitaur Slicer,http:\\kiranico.com\en\mh4u\weapon\longsword\hermitaur-slicer,30,10,10,10,10,0,0,30,10,10,10,12,8,0
+222,LS,528,null,null,Crimson Scythe,http:\\kiranico.com\en\mh4u\weapon\longsword\crimson-scythe,20,8,14,14,4,0,0,20,8,14,14,14,0,0,Fire,180,,,0
+223,LS,594,null,null,Crimson Scythe+,http:\\kiranico.com\en\mh4u\weapon\longsword\crimson-scythe+,18,14,16,16,6,0,0,18,14,16,16,12,4,0,Fire,220,,,0
+224,LS,891,null,null,Monoblos Scythe,http:\\kiranico.com\en\mh4u\weapon\longsword\monoblos-scythe,10,6,26,20,18,0,0,10,6,26,20,22,6,0,Fire,250,,,0
+225,LS,792,null,null,White Mantis,http:\\kiranico.com\en\mh4u\weapon\longsword\white-mantis,20,14,16,10,6,4,0,20,14,16,10,6,14,0,Ice,230,,,0
+226,LS,891,null,null,Weiss Crescent,http:\\kiranico.com\en\mh4u\weapon\longsword\weiss-crescent,8,26,16,14,4,12,0,8,26,16,14,4,22,0,Ice,260,,,0
+227,LS,297,5,null,Ice Blade,http:\\kiranico.com\en\mh4u\weapon\longsword\ice-blade,36,4,12,8,0,0,0,36,4,12,14,4,0,0,Ice,150,,,0
+228,LS,396,5,null,Ice Blade+,http:\\kiranico.com\en\mh4u\weapon\longsword\ice-blade+,32,10,6,12,0,0,0,32,10,6,18,4,0,0,Ice,180,,,0
+229,LS,462,10,null,Edel's Snowflake,http:\\kiranico.com\en\mh4u\weapon\longsword\edels-snowflake,20,14,16,8,2,0,0,20,14,16,8,10,2,0,Ice,220,,,0
+230,LS,495,10,null,Edel's Ice,http:\\kiranico.com\en\mh4u\weapon\longsword\edels-ice,22,22,10,12,4,0,0,22,22,10,12,6,8,0,Ice,290,,,0
+231,LS,726,10,null,Yuki Ichimonji,http:\\kiranico.com\en\mh4u\weapon\longsword\yuki-ichimonji,20,10,26,14,8,2,0,20,10,26,14,8,12,0,Ice,380,,,0
+232,LS,825,15,null,Silver Ichimonji,http:\\kiranico.com\en\mh4u\weapon\longsword\silver-ichimonji,12,6,20,20,20,2,0,12,6,20,20,20,10,2,Ice,440,,,0
+233,LS,462,25,null,Hidden Saber,http:\\kiranico.com\en\mh4u\weapon\longsword\hidden-saber,20,12,8,14,10,6,0,20,12,8,14,10,16,0,Poison,100,,,1
+234,LS,561,30,null,Hidden Saber+,http:\\kiranico.com\en\mh4u\weapon\longsword\hidden-saber+,30,10,10,10,12,8,0,30,10,10,10,12,18,0,Poison,120,,,1
+235,LS,693,40,null,Deepest Night,http:\\kiranico.com\en\mh4u\weapon\longsword\deepest-night,20,16,8,12,14,10,0,20,16,8,12,14,16,4,Poison,160,,,1
+236,LS,759,40,null,Megrez's Asterism,http:\\kiranico.com\en\mh4u\weapon\longsword\megrezs-asterism,30,2,4,30,4,12,8,30,2,4,30,4,12,8,Poison,200,,,1
+237,LS,429,-10,null,Aikuchi,http:\\kiranico.com\en\mh4u\weapon\longsword\aikuchi,18,14,8,0,0,0,0,18,14,16,2,0,0,0
+238,LS,462,-10,null,Unbranded Aikuchi,http:\\kiranico.com\en\mh4u\weapon\longsword\unbranded-aikuchi,12,10,18,0,0,0,0,12,10,22,6,0,0,0
+239,LS,528,-10,null,Lieutenant's Aikuchi,http:\\kiranico.com\en\mh4u\weapon\longsword\lieutenants-aikuchi,12,6,20,2,0,0,0,12,6,20,12,0,0,0
+240,LS,594,-20,null,Toad Abetter,http:\\kiranico.com\en\mh4u\weapon\longsword\toad-abetter,24,4,8,14,0,0,0,24,4,8,18,6,0,0,Ice,100,,,1
+241,LS,627,-20,null,Accomplished Abetter,http:\\kiranico.com\en\mh4u\weapon\longsword\accomplished-abetter,20,8,14,14,4,0,0,20,8,14,14,14,0,0,Ice,120,,,1
+242,LS,825,-20,null,Rampage Edge,http:\\kiranico.com\en\mh4u\weapon\longsword\rampage-edge,10,8,24,24,4,0,0,10,8,24,24,12,2,0,Blast,200,,,1
+243,LS,924,-20,null,Rampage Ironsong,http:\\kiranico.com\en\mh4u\weapon\longsword\rampage-ironsong,22,22,10,12,4,0,0,22,22,10,12,6,8,0,Blast,260,,,1
+244,LS,495,null,null,Guardian Sword,http:\\kiranico.com\en\mh4u\weapon\longsword\guardian-sword,20,14,16,8,2,0,0,20,14,16,8,10,2,0,Water,200,,,1
+245,LS,528,null,null,Imperial Sword,http:\\kiranico.com\en\mh4u\weapon\longsword\imperial-sword,40,12,2,4,10,2,0,40,12,2,4,10,12,0,Water,260,,,1
+246,LS,726,null,null,Aqua Guardian,http:\\kiranico.com\en\mh4u\weapon\longsword\aqua-guardian,16,10,10,32,8,4,0,16,10,10,32,8,14,0,Water,320,,,1
+247,LS,858,null,null,Atlantica,http:\\kiranico.com\en\mh4u\weapon\longsword\atlantica,10,14,16,20,16,4,0,10,14,16,20,16,10,4,Water,400,,,1
+248,LS,429,null,null,Wyvern Blade \Fall\,http:\\kiranico.com\en\mh4u\weapon\longsword\wyvern-blade-fall,16,14,8,12,0,0,0,16,14,8,22,0,0,0,Fire,200,,,0
+249,LS,462,null,null,Wyvern Blade \Blood\,http:\\kiranico.com\en\mh4u\weapon\longsword\wyvern-blade-blood,24,4,8,14,0,0,0,24,4,8,18,6,0,0,Fire,300,,,0
+250,LS,495,null,null,Wyvern Blade \Maple\,http:\\kiranico.com\en\mh4u\weapon\longsword\wyvern-blade-maple,20,8,14,14,4,0,0,20,8,14,14,14,0,0,Fire,350,,,0
+251,LS,561,null,null,Wyvern Blade \Pale\,http:\\kiranico.com\en\mh4u\weapon\longsword\wyvern-blade-pale,10,6,26,20,8,0,0,10,6,26,20,16,2,0,Fire,460,,,0
+252,LS,759,null,null,Wyvern Blade \Silver\,http:\\kiranico.com\en\mh4u\weapon\longsword\wyvern-blade-silver,14,8,24,18,12,4,0,14,8,24,18,12,12,2,Fire,480,,,0
+253,LS,858,null,null,Wyvern Blade \Bloom\,http:\\kiranico.com\en\mh4u\weapon\longsword\wyvern-blade-bloom,10,14,16,20,16,4,0,10,14,16,20,16,10,4,Fire,520,,,0
+254,LS,594,5,null,Wyvern Blade \Blaze\,http:\\kiranico.com\en\mh4u\weapon\longsword\wyvern-blade-blaze,22,20,10,12,10,6,0,22,20,10,12,10,16,0,Fire,160,,,0
+255,LS,693,10,null,Wyvern Blade \Rose\,http:\\kiranico.com\en\mh4u\weapon\longsword\wyvern-blade-rose,6,12,32,16,14,8,2,6,12,32,16,14,8,2,Fire,200,,,0
+256,LS,792,15,null,Wyvern Blade \Awe\,http:\\kiranico.com\en\mh4u\weapon\longsword\wyvern-blade-awe,16,8,22,20,12,8,4,16,8,22,20,12,8,4,Fire,240,,,0
+257,LS,495,null,null,Dios Katana,http:\\kiranico.com\en\mh4u\weapon\longsword\dios-katana,10,14,16,20,0,0,0,10,14,16,20,10,0,0,Blast,150,,,0
+258,LS,528,null,null,Dios Katana+,http:\\kiranico.com\en\mh4u\weapon\longsword\dios-katana+,14,6,20,18,2,0,0,14,6,20,18,12,0,0,Blast,200,,,0
+259,LS,594,null,null,Demolition Katana,http:\\kiranico.com\en\mh4u\weapon\longsword\demolition-katana,20,8,14,14,4,0,0,20,8,14,14,14,0,0,Blast,240,,,0
+260,LS,825,null,null,Pyro Demolisher,http:\\kiranico.com\en\mh4u\weapon\longsword\pyro-demolisher,16,10,22,16,14,2,0,16,10,22,16,14,6,6,Blast,300,,,0
+261,LS,891,null,null,Lightbreak Edge,http:\\kiranico.com\en\mh4u\weapon\longsword\lightbreak-edge,16,10,22,16,14,2,0,16,10,22,16,14,6,6,Blast,360,,,0
+262,LS,231,null,null,Bone,http:\\kiranico.com\en\mh4u\weapon\longsword\bone,20,18,2,0,0,0,0,20,18,12,0,0,0,0
+263,LS,264,null,null,Large Bone,http:\\kiranico.com\en\mh4u\weapon\longsword\large-bone,20,14,6,0,0,0,0,20,14,16,0,0,0,0
+264,LS,297,null,null,Canine Katana,http:\\kiranico.com\en\mh4u\weapon\longsword\canine-katana,18,8,14,0,0,0,0,18,8,22,2,0,0,0
+265,LS,330,null,null,Lupine Katana,http:\\kiranico.com\en\mh4u\weapon\longsword\lupine-katana,8,8,18,6,0,0,0,8,8,18,16,0,0,0
+266,LS,396,null,null,Cerberus Katana,http:\\kiranico.com\en\mh4u\weapon\longsword\cerberus-katana,14,8,10,8,0,0,0,14,8,10,18,0,0,0
+267,LS,495,-10,null,Tigrine Edge,http:\\kiranico.com\en\mh4u\weapon\longsword\tigrine-edge,6,14,14,4,2,0,0,6,14,14,4,12,0,0
+268,LS,561,-10,null,Tigrine Need,http:\\kiranico.com\en\mh4u\weapon\longsword\tigrine-need,20,8,14,14,4,0,0,20,8,14,14,14,0,0
+269,LS,594,-5,null,Tigrine Hunger,http:\\kiranico.com\en\mh4u\weapon\longsword\tigrine-hunger,6,12,32,16,4,0,0,6,12,32,16,14,0,0,Blast,220,,,1
+270,LS,627,10,null,Tigrine Appetence,http:\\kiranico.com\en\mh4u\weapon\longsword\tigrine-appetence,24,4,8,18,6,0,0,24,4,8,18,16,0,0,Blast,280,,,1
+271,LS,858,15,null,Tigrine Appetence+,http:\\kiranico.com\en\mh4u\weapon\longsword\tigrine-appetence+,20,12,8,14,10,6,0,20,12,8,14,10,16,0,Blast,300,,,1
+272,LS,957,20,null,Tigrine Esurience,http:\\kiranico.com\en\mh4u\weapon\longsword\tigrine-esurience,22,22,10,12,6,8,0,22,22,10,12,6,16,2,Blast,330,,,1
+273,LS,429,null,null,Usurper's Boltslicer,http:\\kiranico.com\en\mh4u\weapon\longsword\usurpers-boltslicer,12,6,20,12,0,0,0,12,6,20,20,2,0,0,Thunder,170,,,0
+274,LS,495,null,null,Usurper Boltslicer+,http:\\kiranico.com\en\mh4u\weapon\longsword\usurper-boltslicer+,14,6,20,18,2,0,0,14,6,20,18,12,0,0,Thunder,340,,,0
+275,LS,528,null,null,Despot's Boltbreaker,http:\\kiranico.com\en\mh4u\weapon\longsword\despots-boltbreaker,6,12,32,16,4,0,0,6,12,32,16,14,0,0,Thunder,440,,,0
+276,LS,759,null,null,Oppressor's Law,http:\\kiranico.com\en\mh4u\weapon\longsword\oppressors-law,32,6,12,10,6,4,0,32,6,12,10,6,14,0,Thunder,490,,,0
+277,LS,825,null,null,Orcus Nitorus,http:\\kiranico.com\en\mh4u\weapon\longsword\orcus-nitorus,18,14,16,12,14,6,0,18,14,16,12,14,10,6,Thunder,530,,,0
+278,LS,561,null,null,Brimstren Drakebone,http:\\kiranico.com\en\mh4u\weapon\longsword\brimstren-drakebone,10,6,26,20,8,0,0,10,6,26,20,16,2,0,Dragon,360,,,0
+279,LS,825,null,null,Stygian Gula,http:\\kiranico.com\en\mh4u\weapon\longsword\stygian-gula,24,4,8,18,16,0,0,24,4,8,18,20,6,0,Dragon,380,,,0
+280,LS,858,null,null,Charonian Gula,http:\\kiranico.com\en\mh4u\weapon\longsword\charonian-gula,24,4,8,6,32,6,0,24,4,8,6,32,10,6,Dragon,410,,,0
+281,LS,363,null,null,Coiled Nail,http:\\kiranico.com\en\mh4u\weapon\longsword\coiled-nail,16,4,6,14,0,0,0,16,4,6,24,0,0,0,Para,120,,,0
+282,LS,429,null,null,Coiled Nail+,http:\\kiranico.com\en\mh4u\weapon\longsword\coiled-nail+,10,14,16,20,0,0,0,10,14,16,20,10,0,0,Para,200,,,0
+283,LS,495,null,null,Coiled Saber,http:\\kiranico.com\en\mh4u\weapon\longsword\coiled-saber,14,6,20,18,2,0,0,14,6,20,18,12,0,0,Para,220,,,0
+284,LS,528,null,null,Paracoiled Saber,http:\\kiranico.com\en\mh4u\weapon\longsword\paracoiled-saber,16,14,8,28,4,0,0,16,14,8,28,10,4,0,Para,250,,,0
+285,LS,726,null,null,Paracoiled Edge,http:\\kiranico.com\en\mh4u\weapon\longsword\paracoiled-edge,8,26,16,14,4,2,0,8,26,16,14,4,12,0,Para,300,,,0
+286,LS,825,null,null,Parazagged Edge,http:\\kiranico.com\en\mh4u\weapon\longsword\parazagged-edge,14,8,24,18,12,4,0,14,8,24,18,12,12,2,Para,360,,,0
+287,LS,726,null,null,Hyddra,http:\\kiranico.com\en\mh4u\weapon\longsword\hyddra,32,6,12,10,6,4,0,32,6,12,10,6,14,0,Water,320,,,0
+288,LS,792,null,null,Hyddra+,http:\\kiranico.com\en\mh4u\weapon\longsword\hyddra+,14,8,24,18,12,4,0,14,8,24,18,12,12,2,Water,350,,,0
+289,LS,858,null,null,Alphard,http:\\kiranico.com\en\mh4u\weapon\longsword\alphard,20,16,8,12,14,10,0,20,16,8,12,14,16,4,Water,420,,,0
+290,LS,297,null,null,Curviscera,http:\\kiranico.com\en\mh4u\weapon\longsword\curviscera,14,12,8,6,0,0,0,14,12,8,16,0,0,0,Water,150,,,0
+291,LS,330,null,null,Incurviscera,http:\\kiranico.com\en\mh4u\weapon\longsword\incurviscera,8,8,18,6,0,0,0,8,8,18,16,0,0,0,Water,200,,,0
+292,LS,363,null,null,Incurviscera+,http:\\kiranico.com\en\mh4u\weapon\longsword\incurviscera+,12,8,10,20,0,0,0,12,8,10,30,0,0,0,Water,300,,,0
+293,LS,396,null,null,Bicurviscera,http:\\kiranico.com\en\mh4u\weapon\longsword\bicurviscera,14,6,20,18,2,0,0,14,6,20,18,12,0,0,Water,350,,,0
+294,LS,429,null,null,Vilcurviscera,http:\\kiranico.com\en\mh4u\weapon\longsword\vilcurviscera,14,6,8,32,10,0,0,14,6,8,32,20,0,0,Water,450,,,0
+295,LS,726,null,null,Vilcurviscera+,http:\\kiranico.com\en\mh4u\weapon\longsword\vilcurviscera+,16,10,10,32,8,4,0,16,10,10,32,8,14,0,Water,610,,,0
+296,LS,627,null,null,Tamopaha,http:\\kiranico.com\en\mh4u\weapon\longsword\tamopaha,20,10,26,14,8,2,0,20,10,26,14,8,12,0,Fire,610,,,0
+297,LS,693,null,null,Tamo Saggrama,http:\\kiranico.com\en\mh4u\weapon\longsword\tamo-saggrama,16,10,10,32,8,4,0,16,10,10,32,8,14,0,Fire,680,,,0
+298,LS,429,5,null,Daito Crow,http:\\kiranico.com\en\mh4u\weapon\longsword\daito-crow,14,6,20,10,0,0,0,14,6,20,18,2,0,0,Poison,120,,,0
+299,LS,462,10,null,Daito Wolf,http:\\kiranico.com\en\mh4u\weapon\longsword\daito-wolf,20,14,16,8,2,0,0,20,14,16,8,10,2,0,Poison,180,,,0
+300,LS,561,15,null,Daito Bane,http:\\kiranico.com\en\mh4u\weapon\longsword\daito-bane,20,18,14,8,10,0,0,20,18,14,8,14,6,0,Poison,270,,,0
+301,LS,726,20,null,Daito Pox,http:\\kiranico.com\en\mh4u\weapon\longsword\daito-pox,30,10,10,10,12,8,0,30,10,10,10,12,18,0,Poison,330,,,0
+302,LS,825,25,null,Garuga Daito,http:\\kiranico.com\en\mh4u\weapon\longsword\garuga-daito,22,22,10,12,6,8,0,22,22,10,12,6,16,2,Poison,380,,,0
+303,LS,594,-10,null,Demon Halberd,http:\\kiranico.com\en\mh4u\weapon\longsword\demon-halberd,34,4,16,10,6,0,0,34,4,16,10,14,2,0,Thunder,220,,,0
+304,LS,627,-10,null,Great Demon Halberd,http:\\kiranico.com\en\mh4u\weapon\longsword\great-demon-halberd,14,8,24,18,6,0,0,14,8,24,18,12,4,0,Thunder,330,,,0
+305,LS,858,-10,null,Evil Demon Halberd,http:\\kiranico.com\en\mh4u\weapon\longsword\evil-demon-halberd,14,8,24,18,12,4,0,14,8,24,18,12,12,2,Thunder,400,,,0
+306,LS,924,-10,null,Demonlord Halberd,http:\\kiranico.com\en\mh4u\weapon\longsword\demonlord-halberd,10,14,16,20,16,4,0,10,14,16,20,16,10,4,Thunder,460,,,0
+307,LS,330,5,null,Blood Cry,http:\\kiranico.com\en\mh4u\weapon\longsword\blood-cry,14,8,10,8,0,0,0,14,8,10,18,0,0,0,Sleep,100,,,0
+308,LS,363,10,null,Blood Cry+,http:\\kiranico.com\en\mh4u\weapon\longsword\blood-cry+,14,6,20,18,2,0,0,14,6,20,18,12,0,0,Sleep,200,,,0
+309,LS,396,20,null,Noble Blood Cry,http:\\kiranico.com\en\mh4u\weapon\longsword\noble-blood-cry,22,20,10,12,6,0,0,22,20,10,12,10,6,0,Sleep,240,,,0
+310,LS,429,25,null,Bioptimus,http:\\kiranico.com\en\mh4u\weapon\longsword\bioptimus,16,24,14,8,6,2,0,16,24,14,8,6,12,0,Sleep,270,,,0
+311,LS,594,30,null,Bioptimus+,http:\\kiranico.com\en\mh4u\weapon\longsword\bioptimus+,20,14,16,10,6,4,0,20,14,16,10,6,14,0,Sleep,300,,,0
+312,LS,660,40,null,Gloom,http:\\kiranico.com\en\mh4u\weapon\longsword\gloom,6,6,34,16,8,10,0,6,6,34,16,8,16,4,Sleep,350,,,0
+313,LS,726,40,null,Dark Matter,http:\\kiranico.com\en\mh4u\weapon\longsword\dark-matter,32,6,12,10,6,14,0,32,6,12,10,6,18,6,Sleep,380,,,0
+314,LS,297,null,null,Hairtail's Hairblade,http:\\kiranico.com\en\mh4u\weapon\longsword\hairtails-hairblade,14,8,10,18,0,0,0,14,8,10,28,0,0,0,Water,150,,,0
+315,LS,330,null,null,Hairtail Hairblade+,http:\\kiranico.com\en\mh4u\weapon\longsword\hairtail-hairblade+,14,6,8,22,0,0,0,14,6,8,32,0,0,0,Water,360,,,0
+316,LS,429,null,null,Fresh Hairblade,http:\\kiranico.com\en\mh4u\weapon\longsword\fresh-hairblade,16,4,6,24,0,0,0,16,4,6,34,0,0,0,Water,540,,,0
+317,LS,660,null,null,Premium Hairblade,http:\\kiranico.com\en\mh4u\weapon\longsword\premium-hairblade,16,4,12,28,20,0,0,16,4,12,28,24,4,2,Water,660,,,0
+318,LS,429,null,null,Arbiter,http:\\kiranico.com\en\mh4u\weapon\longsword\arbiter,24,4,8,18,6,0,0,24,4,8,18,16,0,0,Water,250,,,0
+319,LS,462,5,null,Susano-o,http:\\kiranico.com\en\mh4u\weapon\longsword\susano-o,24,4,8,18,16,0,0,24,4,8,18,20,6,0,Water,550,,,0
+320,LS,726,10,null,Nenekirimaru,http:\\kiranico.com\en\mh4u\weapon\longsword\nenekirimaru,4,10,34,12,12,8,0,4,10,34,12,12,14,4,Water,670,,,0
+321,LS,792,10,null,Onamuchi,http:\\kiranico.com\en\mh4u\weapon\longsword\onamuchi,16,24,14,8,6,12,0,16,24,14,8,6,18,4,Water,720,,,0
+322,LS,429,null,null,Windeater,http:\\kiranico.com\en\mh4u\weapon\longsword\windeater,10,6,26,18,0,0,0,10,6,26,20,8,0,0,Fire,280,,,1
+323,LS,462,null,null,Notos,http:\\kiranico.com\en\mh4u\weapon\longsword\notos,10,6,26,20,8,0,0,10,6,26,20,16,2,0,Fire,500,,,1
+324,LS,660,null,null,Notos+,http:\\kiranico.com\en\mh4u\weapon\longsword\notos+,30,10,10,10,10,0,0,30,10,10,10,12,8,0,Fire,520,,,1
+325,LS,759,null,null,Euros,http:\\kiranico.com\en\mh4u\weapon\longsword\euros,20,10,26,14,8,2,0,20,10,26,14,8,12,0,Fire,550,,,1
+326,LS,594,null,null,Reaver \Cruelty\,http:\\kiranico.com\en\mh4u\weapon\longsword\reaver-cruelty,14,6,20,18,2,0,0,14,6,20,18,12,0,0,Dragon,120,,,1
+327,LS,627,null,null,Reaver \Calamity\,http:\\kiranico.com\en\mh4u\weapon\longsword\reaver-calamity,16,8,22,20,4,0,0,16,8,22,20,12,2,0,Dragon,140,,,1
+328,LS,660,5,null,Consummate Katana,http:\\kiranico.com\en\mh4u\weapon\longsword\consummate-katana,18,14,16,16,6,0,0,18,14,16,16,12,4,0,Dragon,160,,,1
+329,LS,924,10,null,Doomblade \Slave\,http:\\kiranico.com\en\mh4u\weapon\longsword\doomblade-slave,16,20,12,14,10,8,0,16,20,12,14,10,14,4,Dragon,280,,,1
+330,LS,462,10,null,Barbarian Blade,http:\\kiranico.com\en\mh4u\weapon\longsword\barbarian-blade,16,4,6,34,0,0,0,16,4,6,34,10,0,0,Water,300,,,0
+331,LS,528,15,null,Barbarian \Sharq\,http:\\kiranico.com\en\mh4u\weapon\longsword\barbarian-sharq,16,4,6,34,10,0,0,16,4,6,34,10,10,0,Water,400,,,0
+332,LS,825,20,null,Kibamaru,http:\\kiranico.com\en\mh4u\weapon\longsword\kibamaru,16,14,8,18,20,4,0,16,14,8,18,20,8,6,Water,500,,,0
+333,LS,561,5,null,Khanga Edge,http:\\kiranico.com\en\mh4u\weapon\longsword\khanga-edge,40,24,8,10,6,2,0,40,24,8,10,6,2,0
+334,LS,627,5,null,Khanga Edge+,http:\\kiranico.com\en\mh4u\weapon\longsword\khanga-edge+,40,24,8,8,6,4,0,40,24,8,8,6,4,0
+335,LS,825,10,null,Seditious Edge,http:\\kiranico.com\en\mh4u\weapon\longsword\seditious-edge,40,24,8,8,6,2,2,40,24,8,8,6,2,2
+336,LS,924,10,null,Zealous Sedition,http:\\kiranico.com\en\mh4u\weapon\longsword\zealous-sedition,40,24,8,6,6,4,2,40,24,8,6,6,4,2
+337,LS,660,-15,null,Tailblade Parallel,http:\\kiranico.com\en\mh4u\weapon\longsword\tailblade-parallel,20,8,14,14,4,0,0,20,8,14,14,14,0,0,Para,80,,,1
+338,LS,693,-15,null,The Righteous Swath,http:\\kiranico.com\en\mh4u\weapon\longsword\the-righteous-swath,8,32,6,4,10,0,0,8,32,6,4,20,0,0,Para,140,,,1
+339,LS,957,-10,null,Barwell the Swift,http:\\kiranico.com\en\mh4u\weapon\longsword\barwell-the-swift,22,20,10,12,6,0,0,22,20,10,12,10,6,0,Para,200,,,1
+340,LS,1023,-10,null,Dalamadur Edge,http:\\kiranico.com\en\mh4u\weapon\longsword\dalamadur-edge,20,10,26,14,8,2,0,20,10,26,14,8,12,0,Para,220,,,1
+341,LS,1056,-10,null,Clouded Dalamadur,http:\\kiranico.com\en\mh4u\weapon\longsword\clouded-dalamadur,30,10,10,10,12,8,0,30,10,10,10,12,18,0,Para,240,,,1
+342,LS,561,null,null,Dragonwood Blade,http:\\kiranico.com\en\mh4u\weapon\longsword\dragonwood-blade,36,4,12,14,4,0,0,36,4,12,14,10,4,0,Para,120,,,0
+343,LS,660,null,null,Dragonwood Godblade,http:\\kiranico.com\en\mh4u\weapon\longsword\dragonwood-godblade,16,24,14,8,6,2,0,16,24,14,8,6,12,0,Para,140,,,0
+344,LS,858,null,null,Dragonwood Cutblade,http:\\kiranico.com\en\mh4u\weapon\longsword\dragonwood-cutblade,24,4,8,6,32,6,0,24,4,8,6,32,10,6,Para,250,,,0
+345,LS,726,15,null,Akantor Katana,http:\\kiranico.com\en\mh4u\weapon\longsword\akantor-katana,26,20,10,4,0,0,0,26,20,10,10,4,0,0
+346,LS,1122,30,null,Akantor Strongsword,http:\\kiranico.com\en\mh4u\weapon\longsword\akantor-strongsword,18,14,16,12,0,0,0,18,14,16,16,6,0,0
+347,LS,858,-30,null,Ukanlos Slicer,http:\\kiranico.com\en\mh4u\weapon\longsword\ukanlos-slicer,36,4,12,8,0,0,0,36,4,12,14,4,0,0,Ice,100,,,0
+348,LS,1188,-30,null,Ukanlos Skydicer,http:\\kiranico.com\en\mh4u\weapon\longsword\ukanlos-skydicer,36,4,12,14,4,0,0,36,4,12,14,10,4,0,Ice,120,,,0
+349,LS,495,null,null,Fatalis Sickle,http:\\kiranico.com\en\mh4u\weapon\longsword\fatalis-sickle,14,14,22,16,4,0,0,14,14,22,16,8,2,4,Dragon,460,,,0
+350,LS,792,null,null,Fatalis Zaggespanon,http:\\kiranico.com\en\mh4u\weapon\longsword\fatalis-zaggespanon,14,14,22,26,4,0,0,14,14,22,26,4,4,6,Dragon,620,,,0
+351,LS,693,10,null,Thunderclap,http:\\kiranico.com\en\mh4u\weapon\longsword\thunderclap,34,4,16,10,14,2,0,34,4,16,10,14,8,4,Thunder,100,,,0
+352,LS,792,10,null,Thunderclap+,http:\\kiranico.com\en\mh4u\weapon\longsword\thunderclap+,16,10,22,16,14,6,6,16,10,22,16,14,6,6,Thunder,140,,,0
+353,LS,990,-30,10,Chaos\Loi,http:\\kiranico.com\en\mh4u\weapon\longsword\chaosloi,16,4,18,14,20,8,0,16,4,18,14,20,12,6,Dragon,100,,,0
+354,LS,924,10,null,Centenarian Dagger,http:\\kiranico.com\en\mh4u\weapon\longsword\centenarian-dagger,36,4,12,14,4,0,0,36,4,12,14,10,4,0,Fire,120,,,0
+355,LS,1023,10,null,Susano Blade,http:\\kiranico.com\en\mh4u\weapon\longsword\susano-blade,20,18,14,8,10,0,0,20,18,14,8,14,6,0,Fire,170,,,0
+356,LS,891,10,null,Phantom Mirage,http:\\kiranico.com\en\mh4u\weapon\longsword\phantom-mirage,36,4,12,14,10,4,0,36,4,12,14,10,10,4,Poison,270,,,1
+357,LS,990,-50,null,Eldaora's Raid,http:\\kiranico.com\en\mh4u\weapon\longsword\eldaoras-raid,16,12,12,8,36,4,2,16,12,12,8,36,4,2,Ice,220,,,0
+358,LS,891,-10,null,Grim Genuflector,http:\\kiranico.com\en\mh4u\weapon\longsword\grim-genuflector,16,10,10,32,8,14,0,16,10,10,32,8,14,0,Sleep,90,,,0
+359,LS,957,-15,null,Headsman's Requite,http:\\kiranico.com\en\mh4u\weapon\longsword\headsmans-requite,24,24,4,4,18,14,2,24,24,4,4,18,14,2,Sleep,160,,,0
+360,LS,759,20,null,Fatalis Fotia,http:\\kiranico.com\en\mh4u\weapon\longsword\fatalis-fotia,20,14,12,10,16,4,4,20,14,12,10,16,4,14,Fire,750,,,0
+361,LS,891,null,null,Fatalis Ascencia,http:\\kiranico.com\en\mh4u\weapon\longsword\fatalis-ascencia,40,20,12,4,2,2,0,40,20,12,4,2,4,8,Thunder,680,,,0
+362,LS,231,-30,null,Worn Long Sword,http:\\kiranico.com\en\mh4u\weapon\longsword\worn-long-sword,36,4,0,0,0,0,0,36,4,10,0,0,0,0
+363,LS,264,-20,null,Weathered Long Sword,http:\\kiranico.com\en\mh4u\weapon\longsword\weathered-long-sword,32,8,0,0,0,0,0,32,10,6,2,0,0,0
+364,LS,429,null,null,Oblivvion,http:\\kiranico.com\en\mh4u\weapon\longsword\oblivvion,22,2,8,2,16,0,0,22,2,8,2,26,0,0,Dragon,580,,,0
+365,LS,627,null,null,Oblivvion+,http:\\kiranico.com\en\mh4u\weapon\longsword\oblivvion+,22,2,8,2,36,0,0,22,2,8,2,42,4,0,Dragon,640,,,0
+366,LS,759,null,null,Memento,http:\\kiranico.com\en\mh4u\weapon\longsword\memento,22,2,8,2,40,6,0,22,2,8,2,40,16,0,Dragon,720,,,0
+367,LS,528,null,null,Icesteel Blade,http:\\kiranico.com\en\mh4u\weapon\longsword\icesteel-blade,6,14,32,14,2,2,0,6,14,32,14,2,12,0,Ice,220,,,0
+368,LS,561,null,null,Daora's Raid,http:\\kiranico.com\en\mh4u\weapon\longsword\daoras-raid,16,24,14,8,6,2,0,16,24,14,8,6,12,0,Ice,350,,,0
+369,LS,891,null,null,Daora's Storm,http:\\kiranico.com\en\mh4u\weapon\longsword\daoras-storm,18,14,16,12,14,6,0,18,14,16,12,14,10,6,Ice,530,,,0
+370,LS,528,null,null,Imperial Saber,http:\\kiranico.com\en\mh4u\weapon\longsword\imperial-saber,32,6,12,10,6,4,0,32,6,12,10,6,14,0,Blast,390,,,0
+371,LS,825,null,null,Imperial Shimmer,http:\\kiranico.com\en\mh4u\weapon\longsword\imperial-shimmer,16,24,14,8,6,12,0,16,24,14,8,6,18,4,Blast,440,,,0
+372,LS,330,null,null,dummy88,http:\\kiranico.com\en\mh4u\weapon\longsword\dummy88,10,14,16,10,0,0,0,10,14,16,20,0,0,0
+373,LS,528,null,null,dummy89,http:\\kiranico.com\en\mh4u\weapon\longsword\dummy89,14,6,8,32,10,0,0,14,6,8,32,20,0,0,Ice,240,,,1
+374,LS,396,null,null,Starlight Gate,http:\\kiranico.com\en\mh4u\weapon\longsword\starlight-gate,4,10,34,2,0,0,0,4,10,34,12,0,0,0
+375,LS,561,null,null,Eternal Gate,http:\\kiranico.com\en\mh4u\weapon\longsword\eternal-gate,20,14,16,8,2,0,0,20,14,16,8,10,2,0,Water,340,,,1
+376,LS,429,-10,null,dummy86,http:\\kiranico.com\en\mh4u\weapon\longsword\dummy86,20,14,16,8,2,0,0,20,14,16,8,10,2,0,Blast,230,,,0
+377,LS,528,-5,null,dummy87,http:\\kiranico.com\en\mh4u\weapon\longsword\dummy87,26,20,10,10,4,0,0,26,20,10,10,8,6,0,Blast,330,,,0
+378,LS,429,15,null,EX Arbiter,http:\\kiranico.com\en\mh4u\weapon\longsword\ex-arbiter,24,4,8,18,6,0,0,24,4,8,18,16,0,0,Water,200,,,1
+379,LS,495,25,null,EX Susano-o,http:\\kiranico.com\en\mh4u\weapon\longsword\ex-susano-o,24,4,8,18,16,0,0,24,4,8,18,20,6,0,Water,450,,,1
+380,LS,495,null,null,dummy90,http:\\kiranico.com\en\mh4u\weapon\longsword\dummy90,28,16,14,12,0,0,0,28,16,14,12,2,8,0,Dragon,350,,,0
+381,LS,528,60,null,Wing of Judgment,http:\\kiranico.com\en\mh4u\weapon\longsword\wing-of-judgment,2,10,40,2,4,12,0,2,10,40,2,4,22,0,Fire,140,,,1
+382,LS,924,null,null,Chainslaughter,http:\\kiranico.com\en\mh4u\weapon\longsword\chainslaughter,20,12,8,14,10,6,0,20,12,8,14,10,16,0,Thunder,520,,,1
+383,LS,924,-20,null,Fan Club Bamboo Rod,http:\\kiranico.com\en\mh4u\weapon\longsword\fan-club-bamboo-rod,14,6,20,18,12,0,0,14,6,20,18,14,8,0,Fire,370,,,1
