@@ -24,3 +24,5 @@ N:\DamageCalculator - Copy\DamageCalculator\obj\x86\Debug\WindowsFormsApplicatio
 N:\DamageCalculator - Copy\DamageCalculator\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
 N:\DamageCalculator - Copy\DamageCalculator\obj\x86\Debug\DamageCalculator.csproj.GenerateResource.Cache
 N:\DamageCalculator - Copy\DamageCalculator\obj\x86\Debug\DamageCalculator.csprojResolveAssemblyReference.cache
+E:\Users\HPSSD\MH4 Damage Calculator\DamageCalculator\obj\x86\Debug\DamageCalculator.exe
+E:\Users\HPSSD\MH4 Damage Calculator\DamageCalculator\obj\x86\Debug\DamageCalculator.pdb

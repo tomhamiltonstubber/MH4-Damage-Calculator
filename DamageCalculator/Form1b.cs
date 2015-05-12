@@ -446,6 +446,12 @@ namespace WindowsFormsApplication1
         public float crit;
     }
 
+    public class Bow : Weapon
+    {
+        public float arrow_level, arrow_value;
+        // TODO: Coatings
+    }
+
 
     public class Monster
     {
